@@ -1,1 +1,1 @@
-# QR-link-Template
+# Saley QR Generator
